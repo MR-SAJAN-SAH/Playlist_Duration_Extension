@@ -11,7 +11,7 @@ This Chrome extension calculates the total duration of a YouTube playlist by sum
 ## Installation
 
 1. **Download or Clone the Repository**  
-git clone https://github.com/yourusername/YouTube-Playlist-Duration-Calculator.git
+https://github.com/MR-SAJAN-SAH/Playlist_Duration_Extension.git
 
 
 2. **Load the Extension in Chrome**
